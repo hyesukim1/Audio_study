@@ -7,6 +7,7 @@
 
 [👀 코랩](https://colab.research.google.com/github/hyesukim1/Audio_study/blob/main/_%EC%98%A4%EB%94%94%EC%98%A4_%EC%B2%98%EB%A6%AC.ipynb)
 
+키워드: 오디오 처리, 라이브러리, 오디오 데이터, 샘플링, 정규화, Mu Law Encoding, Waveform, 푸리에 변환, 스펙트로그램, 오디오 특징추출, 오디오 필터
 
 ### 2. 오디오 분류(Audio Classification)
 [💻유튜브 영상](https://www.youtube.com/watch?v=Cf6QFjdU_KY&list=PL7ZVZgsnLwEGskuPmm2-pYsNKY8Ihs5AP&index=2)
